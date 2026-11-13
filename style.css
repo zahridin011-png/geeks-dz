@@ -1,0 +1,31 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  text-align: center;
+}
+
+.box {
+  background: white;
+  width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+#result1,
+#result3 {
+  font-size: 22px;
+  margin-top: 15px;
+}
+
+#stats1 {
+  color: gray;
+}
